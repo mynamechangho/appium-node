@@ -11,7 +11,8 @@ const opts = {
     platformName: "Android",
     deviceName: "myphone",
     automationName: "UiAutomator2",
-    udid: 'R3CM80YMLGT' //변경
+    udid: 'RFCN506D0YT', //변경
+    bundleId: 'com.AndoridLove.jhdream',
   }
 };
 
